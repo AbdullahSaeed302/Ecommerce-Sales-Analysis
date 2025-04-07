@@ -1,5 +1,3 @@
-![Project Banner](Dashboard_Screenshots/cover_image.png)
-
 # 📊 E-commerce Sales Performance & Customer Retention Analysis
 Welcome to my Power BI project! This case study analyzes e-commerce sales data to uncover insights on sales performance and customer behavior, ultimately helping businesses improve profitability and customer retention.
 
