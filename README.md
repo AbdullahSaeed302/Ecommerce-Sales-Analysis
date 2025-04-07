@@ -1,6 +1,11 @@
 # 📊 E-commerce Sales Performance & Customer Retention Analysis
 Welcome to my Power BI project! This case study analyzes e-commerce sales data to uncover insights on sales performance and customer behavior, ultimately helping businesses improve profitability and customer retention.
 
+## Download Main Report
+
+**Important Note:**
+If you face any issue of seeing the report before downloading, then don't worry! It's totally normal, you can easily watch & use the report after downloading. Thanks!
+
 📄 [Download Dashboard Report (PDF)](E-commerce%20Sales%20Analysis%20Dashboard%20Report.pdf)
 
 ## 🎯 Objectives
